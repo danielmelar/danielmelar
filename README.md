@@ -31,6 +31,7 @@
 ## Principais Tecnologias
   
 [![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,go,linux,postgres,vue)](https://skillicons.dev)
+(csharp, dotnet, go, linux, postgres, vue)
 
 <!--
 <details>
