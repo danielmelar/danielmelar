@@ -9,7 +9,8 @@
 - 👨‍💻 Tenho prefêrencia pelo **backend**. Acho legal poder trabalhar sempre visando a performance.
 
 - 🔭 No momento, direciono uma porcentagem dos meus estudos exclusimanete à **.NET**.
-  
+
+<!--
 - 📚 Dividindo os estudos em:
 
 <div align="left">
@@ -21,6 +22,7 @@
   | 10%     | gestão e mercado
   
 </div>
+-->
 
 <!--
 <div align="center">
