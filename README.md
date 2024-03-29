@@ -74,4 +74,4 @@
 
 ## Publicações
 
-- [Como documentar API's com API Blueprint](https://www.tabnews.com.br/melar/como-documentar-apis-com-api-blueprint)
+- [Como documentar API's com API Blueprint](https://www.tabnews.com.br/danielmelar/como-documentar-apis-com-api-blueprint)
