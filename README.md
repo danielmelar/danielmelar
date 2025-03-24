@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **danielmelar/danielmelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<img src="gandalf_bakshi_1977.gif" />
+
+send me a message:
+<br>
+[Linkedin](https://linkedin.com/in/danielmeloaguilar) |
+[Twitter/X](https://twitter.com/danielmelar) | 
+[Website](https://danielmelar.com) | 
+danielmelo.aguilar@gmail.com
