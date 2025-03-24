@@ -15,7 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<img src="gandalf_bakshi_1977.gif" />
+<div align="center" > 
+ <img src="gandalf_bakshi_1977.gif" />
+</div>
+<!--
+<br>
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+</div>
+-->
 
 send me a message:
 <br>
